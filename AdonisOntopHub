@@ -10240,7 +10240,7 @@ Tabs.support:AddButton({
         Title = "Server Discord",
         Description = "click for copy link and join",
         Callback = function()            
-        setclipboard("https://discord.com/invite/H9q9RuKxqk") 
+        setclipboard("https://discord.gg/qUCaghRG") 
       end
     })
     Tabs.support:AddSection("Updated Logs") 
@@ -10267,11 +10267,11 @@ Tabs.support:AddButton({
     })
 
 print("load xong r") 
-print("Developer: ZkanixZ#0 contact Facebook: Windy Kerenza or discord: ZKanixZ#0")
+print("Developer: Sukaichan contact Facebook: Windy Kerenza or discord:https://discord.gg/qUCaghRG ")
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 game.StarterGui:SetCore("SendNotification", {
-Title = "HadesGod",
-Text = "Successfully",
+Title = "AdonisHub Premium",
+Text = "Thành Công",
 Duration = 5,
 })
 
