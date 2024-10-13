@@ -11,7 +11,7 @@ end
 game.StarterGui:SetCore(
     "SendNotification",
     {
-        Title = "Adonis Hub Beta Script",
+        Title = "AdonisHub ",
         Text = "Loading",
         Duration = 5
     })
